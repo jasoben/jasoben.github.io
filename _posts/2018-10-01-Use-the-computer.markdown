@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Use the Computer in Case You Lose the Computer"
+title: "Use the Computer in Case You Lose the Computer"
 ---
 
 #The Event
