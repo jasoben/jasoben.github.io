@@ -6,9 +6,31 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Sep 2018 18:42:23 -0400</pubDate>
-    <lastBuildDate>Fri, 14 Sep 2018 18:42:23 -0400</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Mon, 01 Oct 2018 15:47:41 -0400</pubDate>
+    <lastBuildDate>Mon, 01 Oct 2018 15:47:41 -0400</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Use the Computer in Case You Lose the Computer</title>
+        <description>&lt;p&gt;#The Event&lt;/p&gt;
+
+&lt;p&gt;Computer technology runs on transistors, powered by an electrical grid that runs through transformers. Any disruption to this grid or the delicate components of a computer would render the internet useless. This could come from terrorist attacks on our grid, from “kill-shot” solar flares (https://science.nasa.gov/science-news/science-at-nasa/2009/21jan_severespaceweather/), or from increasingly devastating terrestrial weather events (https://climate.nasa.gov/news/2648/increasing-resiliency-to-extreme-weather/). Any significant disruption to the power grid and / or the computerized infrastructure would result in massive food shortages due to the nature of our “just in time” food delivery. It is estimated that 9 out of 10 Americans would die in the event of such a disruption.&lt;/p&gt;
+
+&lt;p&gt;#What Do?&lt;/p&gt;
+
+&lt;p&gt;Use the computer to create real local communities. What will happen when millions of hungry Americans pour out of urban and suburban areas, desperate to eat? The genteel laws of America, which are precariously balanced atop an amazingly efficient, yet disruptable distribution system, will disapear. The new law will only be power.&lt;/p&gt;
+
+&lt;p&gt;Individual humans can pretend they will settle down in their bunkers with paid / enslaved guards, but those individuals will quickly learn what sort of person signs up for that kind of guard duty– psychopaths who see an easy path to survival once the owner of the food has been eliminated. The same goes for doomsday preppers on mountain tops and militia weekend warriors with suburban bunkers.&lt;/p&gt;
+
+&lt;p&gt;The only real way to ensure the survival of humanity (not just humans as a species, but humans as an ideal) is to create communities of people with complementary useful skills. As a bonus, this will also make these communities resilient to the systemic control of governments and corporations, which exert their power based on successful alienation of the human subject.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://yourdomain.com/2018/10/01/Use-the-computer.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2018/10/01/Use-the-computer.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -21,8 +43,8 @@
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
