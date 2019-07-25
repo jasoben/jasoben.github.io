@@ -1,0 +1,6 @@
+h1 {font-size: 200px; color:#fff;}
+body {background: #222; color:#fff;}
+a {color:#6be9cc; text-decoration: none;}
+a:hover {text-decoration: underline;}
+footer {bottom:20px; text-align:center; width:100%; display:block;}
+content {width:600px; display: block; margin-left: 50px; font-size: 24px;}

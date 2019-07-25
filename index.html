@@ -1,23 +1,21 @@
----
-layout: default
----
+<html>
+	<head>
+		<link href="jasonbennett.css" rel="stylesheet">
+	</head>
 
-<div class="home">
+	<body>
+		<header>
+			<h1>Joint Action Sonogram Obolisk Network</h1>
 
-  <h1 class="page-heading">Posts</h1>
+		</header>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+		<content>
+			
+		</content>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+		<footer>
+			
+			<p>Built using MUD (<a href="builtusing.html">getmud.io</a>)</p>
+		</footer>
+	</body>
+</html>	
