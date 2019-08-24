@@ -6,4 +6,4 @@ title = "The Papercraft DC Motor: Paper Instructions"
 
 # Paper Instructions
 
-<a href="/images/book-second-draft.pdf">Click here to download the PDF instructions (2mb)</a>
+<a href="{{ .Site.BaseURL }}/images/book-second-draft.pdf">Click here to download the PDF instructions (2mb)</a>
