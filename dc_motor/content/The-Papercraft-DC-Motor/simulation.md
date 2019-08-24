@@ -7,4 +7,4 @@ title = "The Papercraft DC Motor: Simulation"
 
 # Papercraft DC Motor Simulation
 
-[Download the simulation for PC](/papercraft-dc-motor.zip)
+[Download the simulation for PC](https://jasoben.github.io/dc_motor/public/papercraft-dc-motor.zip)
