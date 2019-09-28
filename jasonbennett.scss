@@ -7,10 +7,10 @@ content {width:600px; display: block; margin-left: 50px; font-size: 24px;}
 
 #professional {
 	font-family: helvetica;
-	background:#88a39f;
+	background:#1a130d;
 	color:#000;
 	margin: 0px;
-	background:url('images/mandlebrot.jpg');
+	//background:url('images/mandlebrot.jpg');
 	h1 {
 		font-size:5em;
 		color:#1a5c59;
@@ -46,6 +46,56 @@ content {width:600px; display: block; margin-left: 50px; font-size: 24px;}
 			position: relative;
 			top: -100px;
 			width: 600px;
+		}
+	}
+	content {
+		width:100%;
+		margin:0px;
+		.center-div {
+			margin:0 auto;
+			width:600px;
+			text-align: center;
+		}
+		a {
+			margin:50px;
+		}
+	}
+
+	.pro-sub-page {
+		h1 {
+			font-size:3em;
+			color:#1a5c59;
+			margin:0 auto;
+			display: block;
+			text-align: center;
+			margin-top:30px;
+			width:100%;
+			background:#d8eeed;
+
+			a {
+				color:#1a5c59;
+			}
+		}
+		h2
+		{
+			text-align: center;
+			background: #eaf7f8;
+			display: block;
+			width: 100%;
+			margin-top: 0px;
+			padding-top: 20px;
+			padding-bottom: 20px;
+		}
+		div.description {
+			margin:0 auto;
+			width:600px;
+			a {
+				margin:50px;
+			}
+			p {
+				color:#fff;
+				text-align: left;
+			}
 		}
 	}
 

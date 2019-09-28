@@ -33,10 +33,9 @@ content {
 
 #professional {
   font-family: helvetica;
-  background: #88a39f;
+  background: #1a130d;
   color: #000;
   margin: 0px;
-  background: url("images/mandlebrot.jpg");
 }
 #professional h1 {
   font-size: 5em;
@@ -72,6 +71,51 @@ content {
   position: relative;
   top: -100px;
   width: 600px;
+}
+#professional content {
+  width: 100%;
+  margin: 0px;
+}
+#professional content .center-div {
+  margin: 0 auto;
+  width: 600px;
+  text-align: center;
+}
+#professional content a {
+  margin: 50px;
+}
+#professional .pro-sub-page h1 {
+  font-size: 3em;
+  color: #1a5c59;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-top: 30px;
+  width: 100%;
+  background: #d8eeed;
+}
+#professional .pro-sub-page h1 a {
+  color: #1a5c59;
+}
+#professional .pro-sub-page h2 {
+  text-align: center;
+  background: #eaf7f8;
+  display: block;
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#professional .pro-sub-page div.description {
+  margin: 0 auto;
+  width: 600px;
+}
+#professional .pro-sub-page div.description a {
+  margin: 50px;
+}
+#professional .pro-sub-page div.description p {
+  color: #fff;
+  text-align: left;
 }
 
 /*# sourceMappingURL=jasonbennett.css.map */
