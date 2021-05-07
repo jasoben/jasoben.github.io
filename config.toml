@@ -1,6 +1,6 @@
 baseURL = "https://www.jasonbennett.name/"
 languageCode = "en-us"
-title = "www.jasonbennett.name"
+title = "jasonbennett.name"
 theme = "solar-theme-hugo"
 paginate = 5
 pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
@@ -8,18 +8,22 @@ copyright = ""
 
 [params]
   scheme = "dark" # light, dark, gray or preference
-  description = "A wizard is never late"
+  description = "it's hip to be rhombus"
 
 [menu]
   [[menu.main]]
-    name = "Feed"
-    url = "/index.xml"
+    name = "Posts"
+    url = "/index.html"
   [[menu.main]]
-    name = "Repository"
+    name = "Essays"
     url = "https://github.com/bake/solar-theme-hugo/"
-  [[menu.other]]
-    name = "Hugo"
+  [[menu.main]]
+    name = "Projects"
+    url = "https://themes.gohugo.io/solar-theme-hugo/"
+  [[menu.main]]
+    name = "About"
     url = "https://themes.gohugo.io/solar-theme-hugo/"
   [[menu.other]]
-    name = "Demo"
-    url = "https://themes.gohugo.io/theme/solar-theme-hugo/"
+    name = "Other Stuff"
+    url = "https://themes.gohugo.io/solar-theme-hugo/"
+
