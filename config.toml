@@ -1,4 +1,4 @@
-baseURL = "http://www.jasonbennett.name/"
+baseURL = "https://www.jasonbennett.name/"
 languageCode = "en-us"
 title = "www.jasonbennett.name"
 theme = "solar-theme-hugo"
