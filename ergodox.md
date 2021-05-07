@@ -24,3 +24,13 @@ Took a nap today and while falling asleep my brain was in anguish over the fact 
 45wpm
 95.4% accuracy
 
+## Day 9
+
+Doing better. Finally found an ergonomic position. Lots of improvement with letters C and V... still lagging behind on M, but doing better. Getting more used to the advanded thumb usage. Still finding weird letters using the map (e.g. Tilda ~ had to look just now to type it even though I used it an hour ago.)
+
+Had a brief period of despondency when I couldn't find an ergonomic position. Now feeling much better and wondering about different switches...
+
+Speed:
+63.62 WPM 
+Accuracy:
+96.67%
